@@ -1,0 +1,11 @@
+Todos los archivos CSV:
+
+softline.csv
+productos.csv
+netos.csv
+
+Columnas:
+
+Columna de mapeo: campo-mapeo
+Columna de coste: coste
+Columna de PVP: pvp
